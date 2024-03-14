@@ -14,4 +14,4 @@ WORKDIR /app
 RUN pipenv install --system --deploy
 
 # Команда, яка запускає ваш додаток
-CMD ["python", "123.py"]
+CMD ["python", "2.py"]
